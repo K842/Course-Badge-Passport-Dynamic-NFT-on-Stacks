@@ -31,3 +31,5 @@ The DAO approach ensures that every faculty member has a voice in shaping the in
 📜 Contract Address
 Note: Replace with your actual deployed address once deployed on the Stacks testnet/mainnet
 ST15JMJYC2RFDKYX2RD7DRWWSXW6WZ3Z7VQZAEY0Z.badge-contract
+
+<img width="1884" height="833" alt="image" src="https://github.com/user-attachments/assets/755e1b81-37ac-4c07-8b8e-cccd339c8a3e" />
